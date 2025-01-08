@@ -1,4 +1,5 @@
 Atliq Hardware Sales Insights Project
+
 Overview
 This project involves creating a comprehensive Power BI dashboard to track sales insights for Atliq Hardware, a company supplying computer hardware and peripherals across India. The aim is to provide clear, actionable insights to facilitate data-driven decision-making and improve overall sales performance.
 
