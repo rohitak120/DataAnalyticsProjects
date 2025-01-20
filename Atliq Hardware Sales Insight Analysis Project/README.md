@@ -45,7 +45,7 @@ Access to the MySQL database with sales data.
 ## Steps to Setup
 Clone the Repository:
 
-git clone https://github.com/yourusername/atliq-hardware-sales-insights.git
+git clone https://github.com/rohitak120/atliq-hardware-sales-insights.git
 
 Open Power BI Desktop:
 
